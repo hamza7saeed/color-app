@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+section{
+    display: flex;
+    
+    justify-content: center;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+.inText{
+    border-style: solid;
+    padding: 90px;
+}
+footer{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 14px;
+}
